@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://m3-soft.github.io
+url: https://iamcloud666.github.io
 date_format: "ordinal"
 title: Klaŭd
 subtitle: "这是一个Amazing的网站"
@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Mily
+author: CLoud
 organization: 
 organization_url: 
 github_username: momoNorthy
